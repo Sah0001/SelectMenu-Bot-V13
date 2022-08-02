@@ -1,16 +1,12 @@
 # SelectMenu-Bot-V13
 30 Star Gelirse Paylaşacağım
+- [x] **30 Star Geldiğinde Paylaşacağım**
+
+  - [Discord Profilim](https://discord.com/users/827573651443810394)
+  - [Discord Sunucum](https://discord.gg/volen)
 
 Discord sunucularınızda kullanabileceğiniz gelişmiş ve sade bir rol verme botu.
 
-# Discord: Şah#0001
-
-- [x] **30 Star Geldiğinde Paylaşacağım**
-
-  - Bot version 13 tür botu sıkıldığım için direk 1 gün içinde yaptım public ve ekip sistemi için yaptığım bir bottur.
-  - Sizinde kullanmanızı istiyorum fakat 30 Star atarsanız bu projeye direkt 30 olduğunda paylaşacağım herkese kodları
-  - [Discord Profilim](https://discord.com/users/827573651443810394)
-  - [Discord Sunucum](https://discord.gg/volen)
 
 [![GitHub license](https://img.shields.io/github/license/thearkxd/discord-advanced-stat-bot)](https://github.com/thearkxd/discord-advanced-stat-bot/blob/master/LICENSE.md)
 [![Actions Status](https://github.com/thearkxd/discord-advanced-stat-bot/actions/workflows/test.yml/badge.svg)](https://github.com/thearkxd/discord-advanced-stat-bot/actions)
