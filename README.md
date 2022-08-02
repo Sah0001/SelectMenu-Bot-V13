@@ -1,6 +1,5 @@
 # SelectMenu-Bot-V13
-30 Star Gelirse Paylaşacağım
-- [x] **30 Star Geldiğinde Paylaşacağım**
+- [x] **30 Star Gelirse Paylaşacağım**
 
   - [Discord Profilim](https://discord.com/users/827573651443810394)
   - [Discord Sunucum](https://discord.gg/volen)
